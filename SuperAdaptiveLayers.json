@@ -1,0 +1,19 @@
+{
+    "schema_version": "super-addon-manager-version-info-1.0.0",
+    "versions": [
+        {
+            "version": [
+                0,
+                8,
+                0
+            ],
+            "allow_automatic_download": true,
+            "download_url": "https://github.com/PidgeonTools/SuperAdaptiveLayers/archive/refs/tags/0_8_0.zip",
+            "minimum_blender_version": [
+                3,
+                0,
+                0
+            ]
+        }
+    ]
+}
