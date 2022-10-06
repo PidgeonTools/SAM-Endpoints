@@ -1,0 +1,19 @@
+{
+    "schema_version": "super-addon-manager-version-info-1.0.0",
+    "versions": [
+        {
+            "version": [
+                0,
+                0,
+                0
+            ],
+            "allow_automatic_download": true,
+            "download_url": "https://github.com/PidgeonTools/SuperRenderFarm/releases/download/1.0.0/SuperRenderFarm.zip",
+            "minimum_blender_version": [
+                2,
+                93,
+                0
+            ]
+        }
+    ]
+}
